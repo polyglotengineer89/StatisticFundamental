@@ -1,5 +1,7 @@
 
 ### Reference
+Statistical Thinking in Python (Part 1)
+https://trenton3983.github.io/files/projects/2019-07-10_statistical_thinking_1/2019-07-10_statistical_thinking_1.html
 
 Probabilistic Thinking | Mark Douglas <br>
 https://www.youtube.com/watch?v=iBINiqVXozo
