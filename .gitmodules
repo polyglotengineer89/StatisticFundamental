@@ -1,0 +1,3 @@
+[submodule "ProbabilityDistribution"]
+	path = ProbabilityDistribution
+	url = https://github.com/polyglotengineer89/ProbabilityDistribution.git
