@@ -11,3 +11,6 @@ https://www.youtube.com/watch?v=dOr0NKyD31Q
 <br>
 Probability density functions | Probability and Statistics | Khan Academy<br>
 https://www.youtube.com/watch?v=Fvi9A_tEmXQ
+
+Teach me STATISTICS in half an hour!<br>
+https://www.youtube.com/watch?v=kyjlxsLW1Is
